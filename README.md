@@ -4,6 +4,10 @@ Hosted by [Zeit](https://zeit.co/).
 
 ## TL;DR
 
+```bash
+yarn global add now
+```
+
 ### Development
 
 ```bash
