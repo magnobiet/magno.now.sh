@@ -1,0 +1,14 @@
+{
+  "name": "magno.now.sh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "repository": "https://github.com/magnobiet/magno.now.sh.git",
+  "author": "Magno Biét <magno.biet@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^7.2.1"
+  }
+}
