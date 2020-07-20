@@ -9,6 +9,6 @@
   "author": "Magno Biét <magno.biet@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "micro": "^7.2.1"
+    "micro": "^9.3.4"
   }
 }
