@@ -1,18 +1,18 @@
 # magno.now.sh
 
-Hosted by [Zeit](https://zeit.co/).
+Powered by [Vercel](https://vercel.com/).
 
 ## TL;DR
 
 ```bash
-yarn global add now
+npm install -g now
 ```
 
 ### Development
 
 ```bash
 git clone git@github.com:magnobiet/magno.now.sh.git && cd $_
-yarn install
+npm install
 ```
 
 ### Deploy
